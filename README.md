@@ -1,6 +1,5 @@
 <!-- Banner with ML/DL background -->
-<img src="https://raw.githubusercontent.com/nietiene/nietiene/main/download.jpeg" width="100%" alt="banner"/>
-
+![Banner](https://raw.githubusercontent.com/nietiene/nietiene/main/download.jpeg)
 <!-- Typing animation -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
