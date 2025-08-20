@@ -1,5 +1,5 @@
 <!-- Banner with ML/DL background -->
-<img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2021/06/66921ML-DL-banner.png" width="100%" alt="banner"/>
+<img src="https://raw.githubusercontent.com/nietiene/nietiene/main/download.jpeg" width="100%" alt="banner"/>
 
 <!-- Typing animation -->
 <h1 align="center">
