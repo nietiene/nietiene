@@ -1,19 +1,19 @@
 <!-- Banner with ML/DL background -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nietiene/nietiene/main/ml.jpg" alt="banner" width="100%" height="450px" />
-</p>
+
+<h1 align="left">Hey 👋 What's up?</h1>
 <!-- Typing animation -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Etiene;I'm+a+Web3+Developer;I'm+a+Machine+Learning+Developer;I'm+a+Deep+Learning+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Etiene;I'm+a+Web3+Developer;I'm+a+Machine+Learning+Developer;I'm+a+Deep+Learning+Enthusiast;I'm+Web+Developer;I'm+Full+Stack+Developer;I'm+Software+Engineer" alt="Typing SVG" />
   </a>
 </h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nietiene/nietiene/main/ml.jpg" alt="banner" width="100%" height="450px" />
+</p>
+
 
 ###
-
-<h1 align="left">Hey 👋 What's up?</h1>
-
-<p align="left">My name is Etiene and I'm a Software Developer from Rwanda</p>
+<p align="left">My name is Etiene and I'm a Software Engineer, Machine Learing Engineer, Deep Learning Enthusiast, Full-Stack Developer  from Rwanda</p>
 
 ---
 
@@ -25,10 +25,10 @@
 
 <h2 align="left">💼 My Projects</h2>
 
-- 🔗 [Web3 Marketplace](https://github.com/yourusername/web3-marketplace) – Decentralized NFT marketplace  
-- 🔗 [ML Spam Detector](https://github.com/yourusername/ml-spam-detector) – Spam email detection using ML  
-- 🔗 [DL Image Classifier](https://github.com/yourusername/dl-image-classifier) – CNN-based image recognition model  
-- 🔗 [Crypto Portfolio Tracker](https://github.com/yourusername/crypto-tracker) – Manage & track your crypto assets  
+- 🔗 [Real Time Web Application](https://github.com/yourusername/web3-marketplace) – Real Time Web Application
+- 🔗 [Portifolio Website ](https://niyomugaboetiene.onrender.com) – Portifolio Website 
+- 🔗 [ Movies App](https://netmoviess.vercel.app/) – Movies App
+- 🔗 [Student Managment System](https://github.com/nietiene/crypto-tracker) – Student Managment System
 
 ---
 
@@ -59,8 +59,8 @@
 <h2 align="left">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yourusername&layout=compact&theme=dracula" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nietiene&show_icons=true&theme=dracula" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nietiene&layout=compact&theme=dracula" height="150"/>
 </div>
 
 ---
