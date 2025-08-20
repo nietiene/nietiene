@@ -1,6 +1,6 @@
 <!-- Banner with ML/DL background -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nietiene/nietiene/main/ml.jpg" alt="banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/nietiene/nietiene/main/ml.jpg" alt="banner" width="100%" height="450px" />
 </p>
 <!-- Typing animation -->
 <h1 align="center">
