@@ -14,7 +14,7 @@
 
 ---
 
-<p align="left">My name is Etiene and I'm a Software Engineer, Machine Learning Engineer, Deep Learning Enthusiast, Full-Stack Developer from Rwanda</p>
+<p align="left">I'm currently learing about AI and Blockchain Developemt.</p>
 
 ---
 
