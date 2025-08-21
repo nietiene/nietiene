@@ -35,7 +35,6 @@
   <li>🔗 <a href="https://github.com/nietiene/crypto-tracker">Student Management System</a> – Student Management System</li>
 </ul>
 
----
 
 <h2 align="left">🛠️ My Tech Stack</h2>
 
