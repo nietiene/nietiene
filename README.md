@@ -35,6 +35,9 @@
   <li>🔗 <a href="https://github.com/nietiene/crypto-tracker">Student Management System</a> – Student Management System</li>
 </ul>
 
+### My Location
+[Bugesera, Rwanda](https://www.google.com/maps/place/Bugesera,+Rwanda)
+
 
 <h2 align="left">🛠️ My Tech Stack</h2>
 
