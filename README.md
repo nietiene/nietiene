@@ -1,5 +1,4 @@
 <!-- Banner with ML/DL background -->
-<h1 align="left">Hey 👋 What's up?</h1>
 
 <!-- Typing animation -->
 <h1 align="center">
