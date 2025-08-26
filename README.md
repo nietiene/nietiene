@@ -22,7 +22,6 @@
 ✨ Creating bugs since 2023<br>
 🎯 Goals: To Achieve more than now<br>
 🎲 Fun fact: Runs on my machine. Good luck on yours 🤞. <br>
-🎲 Fun fact: Warning: This code may contain bugs. If found, please hug them before removing 🐛❤️.<br>
 🎲 Fun fact: Contributions are welcome, unless you try to rename variables to your ex’s name 💔.
 
 </p>
