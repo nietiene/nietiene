@@ -91,9 +91,13 @@
 
 <h2 align="left">📊 GitHub Stats</h2>
 <div align="center">
+  <!-- Overall GitHub stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=nietiene&show_icons=true&theme=dracula" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nietiene&layout=compact&theme=dracula" height="150"/>
+  
+  <!-- Top Languages, including Solidity -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nietiene&layout=compact&theme=dracula&langs_count=10" height="150" width="340"/>
 </div>
+
 
 ---
 
