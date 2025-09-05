@@ -30,7 +30,7 @@
 
 <h2 align="left">💼 My Projects</h2>
 <ul>
-  <li>🔗 <a href="https://github.com/yourusername/web3-marketplace">Real Time Web Application</a> – Real Time Web Application</li>
+  <li>🔗 <a href="https://github.com/nietiene/gikonko-chat-frontend">Real Time Web Application</a> – Real Time Web Application</li>
   <li>🔗 <a href="https://niyomugaboetiene.onrender.com">Portfolio Website</a> – Personal Portfolio Website</li>
   <li>🔗 <a href="https://netmoviess.vercel.app/">Movies App</a> – Movies App</li>
   <li>🔗 <a href="https://github.com/nietiene/crypto-tracker">Student Management System</a> – Student Management System</li>
