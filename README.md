@@ -8,7 +8,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nietiene/nietiene/main/ml.jpg" alt="banner" width="100%" height="450px" />
+  <img src="https://raw.githubusercontent.com/niyomugaboetiene/niyomugaboetiene/main/ml.jpg" alt="banner" width="100%" height="450px" />
 </p>
 
 ---
@@ -30,10 +30,10 @@
 
 <h2 align="left">💼 My Projects</h2>
 <ul>
-  <li>🔗 <a href="https://github.com/nietiene/gikonko-chat-frontend">Real Time Web Application</a> – Real Time Web Application</li>
+  <li>🔗 <a href="https://github.com/niyomugaboetiene/gikonko-chat-frontend">Real Time Web Application</a> – Real Time Web Application</li>
   <li>🔗 <a href="https://niyomugaboetiene.onrender.com">Portfolio Website</a> – Personal Portfolio Website</li>
   <li>🔗 <a href="https://netmoviess.vercel.app/">Movies App</a> – Movies App</li>
-  <li>🔗 <a href="https://github.com/nietiene/crypto-tracker">Student Management System</a> – Student Management System</li>
+  <li>🔗 <a href="https://github.com/niyomugaboetiene/crypto-tracker">Student Management System</a> – Student Management System</li>
 </ul>
 
 ### My Location
@@ -92,10 +92,10 @@
 <h2 align="left">📊 GitHub Stats</h2>
 <div align="center">
   <!-- Overall GitHub stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=nietiene&show_icons=true&theme=dracula" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=niyomugaboetiene&show_icons=true&theme=dracula" height="150"/>
   
   <!-- Top Languages, including Solidity -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nietiene&layout=compact&theme=dracula&langs_count=10" height="150" width="340"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=niyomugaboetiene&layout=compact&theme=dracula&langs_count=10" height="150" width="340"/>
 </div>
 
 
