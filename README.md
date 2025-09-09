@@ -95,7 +95,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=niyomugaboetiene&show_icons=true&theme=dracula" height="150"/>
   
   <!-- Top Languages, including Solidity -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=niyomugaboetiene&layout=compact&theme=dracula&langs_count=10" height="150" width="340"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=niyomugaboetiene&layout=compact&theme=dracula" height="150" width="340"/>
 </div>
 <img src="https://stats.dooboo.io/api/github-stats-advanced?login=niyomugaboetiene" alt="niyomugaboetiene github-stats" />
 <img src="https://stats.dooboo.io/api/github-trophies?login=niyomugaboetiene" alt="niyomugaboetiene github-trophies" />
