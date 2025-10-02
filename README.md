@@ -3,7 +3,7 @@
 <!-- Typing animation -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Etiene+Niyomugabo;I'm+a+Web3.0+Developer;I'm+a+Machine+Learning+Developer;I'm+a+Deep+Learning+Enthusiast;I'm+Web+Developer;I'm+Full+Stack+Developer;I'm+Software+Engineer;+I'm+Relational+Database+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Etiene+Niyomugabo;I'm+a+Web3.0+Developer;I'm+a+Machine+Learning+Developer;I'm+a+Deep+Learning+Enthusiast;I'm+Web+Developer;I'm+Full+Stack+Developer;I'm+Software+Engineer;+I'm+Relational+Database+Developer+I'm+Mobile+Appkication+Developer" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -13,7 +13,7 @@
 
 ---
 
-<p align="left">I'm currently learing about AI and Blockchain Developemt.</p>
+<p align="left">Always learn new things. Always acheive more</p>
 
 ---
 
@@ -22,6 +22,7 @@
 ✨ Creating bugs since 2023<br>
 🎯 Goals: To Achieve more than now<br>
 🎲 Fun fact: Runs on my machine. Good luck on yours 🤞. <br>
+🎲 Fun fact: Make your day diffrerent from yesterday by coding 🤞. <br>
 🎲 Fun fact: Contributions are welcome, unless you try to rename variables to your ex’s name 💔.
 
 </p>
